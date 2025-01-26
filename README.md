@@ -16,13 +16,14 @@ This project provides an in-depth analysis of IPL (Indian Premier League) data u
 IPL-Analysis-Tableau-Dashboard/
 │-- README.md
 │-- IPL-Analysis-Dashboard.twb (Tableau dashboard file)
-│-- dataset-used/
+│-- datasets-used/
 │   └── IPL Ball-by-Ball 2008-2020.csv (raw data used)
     └── IPL Matches 2008-2020.csv (raw data used)
+    └── Images
 │-- Dashboard-Screenshot/
 │   └── dashboard_preview.png
 │-- reports/
-│   └── project_report.pdf
+│   └── Ipl_Dashboard_report.pdf
 ```
 
 ## Tools Used
